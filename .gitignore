@@ -1,7 +1,5 @@
 .venv
-mcp_chatbot.py
 server_config.json
 Dockerfile
 .idea
-.DS_Store
 .DS_Store
